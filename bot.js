@@ -83,5 +83,5 @@ function saySomething() {
   }
   }
   conversation.innerHTML += "<p><strong>You:</strong> " + message + "</p>";
-    conversation.innerHTML += "<p><strong>Eliza:</strong> " + answer + "</p>";
+  conversation.innerHTML += "<p><strong>Eliza:</strong> " + answer + "</p>";
 }
